@@ -23,9 +23,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="header_pack_label2">Aex</string>
   <string name="header_pack_label3">#BeExtended</string>
   <string name="header_wavvy">Wavvy</string>
-  <string name="header_naturerandom">Alam (acak)</string>
+  <string name="header_naturerandom">Natural (acak)</string>
   <string name="header_poly">Poli</string>
-  <string name="header_nature">Alam</string>
-  <string name="weather_color">JamKunci (warna)</string>
+  <string name="header_nature">Natural</string>
+  <string name="weather_color">LockClock (warna)</string>
   <string name="header_creator_label">Pembuat\u003a </string>
 </resources>
