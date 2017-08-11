@@ -26,6 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="header_naturerandom">Naturaleza(Aleatorio)</string>
   <string name="header_poly">Poly</string>
   <string name="header_nature">Naturaleza</string>
-  <string name="weather_color">Reloj de bloqueo (color)</string>
+  <string name="weather_color">LockCLock(color)</string>
   <string name="header_creator_label">Creador\u003a </string>
 </resources>

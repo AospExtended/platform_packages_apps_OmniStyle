@@ -26,6 +26,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
   <string name="header_naturerandom">自然 (隨機)</string>
   <string name="header_poly">多邊形</string>
   <string name="header_nature">自然</string>
-  <string name="weather_color">LockClock （顏色）</string>
+  <string name="weather_color">LockClock (顏色)</string>
   <string name="header_creator_label">創作者\u003a </string>
 </resources>
