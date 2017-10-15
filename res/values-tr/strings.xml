@@ -19,5 +19,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 <resources>
   <string name="browse_header">Başlıklar</string>
   <string name="custom_header_image_notice">Başlık görüntüsü ayarlandı</string>
+  <string name="header_pack_label1">Screwd</string>
+  <string name="header_pack_label2">Aex</string>
+  <string name="header_pack_label3">#BeExtended</string>
+  <string name="header_wavvy">Wavvy</string>
+  <string name="header_naturerandom">Doğa (rasgele)</string>
+  <string name="header_poly">Çoklu</string>
+  <string name="header_nature">Doğa</string>
+  <string name="weather_color">Kilit Saati (renk)</string>
   <string name="header_creator_label">Yapan\u003a </string>
 </resources>
